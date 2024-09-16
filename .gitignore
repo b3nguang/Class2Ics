@@ -1,0 +1,5 @@
+.venv/
+.idea/
+output.ics
+class.json
+*.pyc
